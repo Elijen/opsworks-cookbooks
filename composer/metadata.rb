@@ -1,0 +1,5 @@
+name              "composer"
+maintainer        "Petr Peller"
+maintainer_email  "petr.peller@gmail.com"
+description       "Allows basic actions using Composer"
+version           "1.0.0"
