@@ -1,0 +1,5 @@
+name              "nette"
+maintainer        "Petr Peller"
+maintainer_email  "petr.peller@gmail.com"
+description       "Most common actions needed to deploy Nette application"
+version           "1.0.0"
